@@ -1,5 +1,7 @@
 # B28 Housing Market Analysis
 
+*Tools Used: Python (Jupiter Notebook), Power BI*
+
 ## Background
 A research on the housing market in **B28, Birmingham, UK**; to provide the real estate agency manager with insights into housing prices, property types, sizes and features. With further investigations aim to analyze: 
 - How does the local market compare to the wider market?
